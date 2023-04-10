@@ -8,8 +8,8 @@ spring:
     protocol: smtp
     host: smtp.163.com
     port: 25
-    username: codingK_himegami@163.com
-    password: WBECOBBTDEKSVJGW
+    username:
+    password:
     default-encoding: utf-8
     properties:
       mail:
